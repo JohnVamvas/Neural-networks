@@ -7,3 +7,6 @@ The implementetion consists of 4 layers of nodes: an input layer, two hidden lay
 # Kmeans and Learning Vector Quantization(LVQ)
 
 In this part we will implement Kmeans and LVQ and try to group a set of points (x, y). We will test and compare the algorithms with different number of clusters.
+
+# Notice
+The file examples1.c produce the set of examples that used for training and to check the results of the neural network training.
